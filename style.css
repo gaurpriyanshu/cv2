@@ -1,0 +1,19 @@
+body{
+  background-color: #edffec
+}
+.Name
+{
+  color: #93329e
+}
+hr
+{
+  border-style: none;
+  width: 5%;
+  border-width: 3px;
+  border-color: cyan;
+  border-top-style: dotted;
+}
+.DP{
+  border-radius: 100%;
+  width: 90%;
+}
